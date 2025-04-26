@@ -1,4 +1,6 @@
-First run solr using /bin/solr.cmd -c -p 8984
+First run solr using:
+
+- /bin/solr.cmd -c -p 8984
 
 Then, open another terminal and write command:
 
